@@ -1,7 +1,7 @@
 # jsp2.3 웹프로그래밍 책소스
 삼양미디어 JSP2.3 웹프로그래밍 책 소스 및 소스 업데이트
 
-1. JSP2.3 웹프로그래밍 1~17장 책소스 mysql기반 : 
+1. JSP2.3 웹프로그래밍 1~17장 책소스 mysql기반 : studyjsp.zip
    
 2. 18장 shopping mall 책 소스 mysql기반 : shoppingmall.zip
 
